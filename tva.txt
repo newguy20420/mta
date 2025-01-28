@@ -1,0 +1,1 @@
+Error building playlist: Failed to fetch sports data: HTTP 404
